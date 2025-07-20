@@ -1,5 +1,5 @@
 # ImageUploader
-Also user to sign and uplaod image and file for storage. 
+Also user to sign and upload image and file for storage. 
 
 Uses 
   - Spring Boot for the backend
